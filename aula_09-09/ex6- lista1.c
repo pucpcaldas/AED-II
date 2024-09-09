@@ -5,7 +5,7 @@ int ff(int n);
 int main() {
     int r;
     r = ff(7);
-    printf("%d", r);
+    printf("%d", r);    
     return 0;
 }
 int ff(int n) {
