@@ -5,10 +5,10 @@
 
 ## Lesson Index
 
-### Lesson 1: August 26, 2024
+### Lesson August 26, 2024
 **Topic:** Dynamic Memory Allocation
 
-### Lesson 2: September 9, 2024
+### Lesson September 9, 2024
 **Topic:** Review for Exam (Recursion, Dynamic Memory Allocation, and Sorting Algorithms)
 
 ---
